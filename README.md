@@ -1,7 +1,9 @@
 <h1 align="center">hi, im anchith 👋</h1>
 
 <p align="center">
-  i write code until it works and then pretend i understood it the whole time<br>13 year old software dev from bengaluru
+  i write code until it works and then pretend i understood it the whole time
+  <br>
+  13 year old software dev from bengaluru
 </p>
 
 ---
@@ -20,7 +22,7 @@
 - ai and llms and other cool stuff 👍
 - making libraries
 - object orienting everything
-- java obv
+- java obviously
 - making netbeans form editor do all my work 💀
 - decompiling stuff
 
