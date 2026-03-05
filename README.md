@@ -8,7 +8,7 @@
 
 ---
 
-## things i made
+## ✏️ things i made
 
 - **Cyton AI**: a deep learning framework in Java
 - other stupid stuff in project-spam
@@ -17,9 +17,9 @@
 
 ---
 
-## 💭 things i like
+## 👍 things i like
 
-- ai and llms and other cool stuff 👍
+- ai and llms and other cool stuff 👌
 - making libraries
 - object orienting everything
 - java obviously
