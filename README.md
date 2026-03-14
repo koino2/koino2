@@ -1,7 +1,7 @@
 <h1 align="center">hi, im anchith 👋</h1>
 
 <p align="center">
-  i write code until it works and then pretend i understood it the whole time
+  i write code until it works and then pretend i knew it the whole time
   <br>
   13 year old software dev from bengaluru
 </p>
@@ -33,3 +33,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Logisim](https://img.shields.io/badge/Logisim-FF6F00?style=for-the-badge&logoColor=white)
+
+# ✋😐🤚 other stuf
+- im a hack clubber
+- i study in nps inr
