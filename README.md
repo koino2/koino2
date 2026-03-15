@@ -37,3 +37,4 @@
 # ✋😐🤚 other stuf
 - im a hack clubber
 - i study in nps inr
+- anchithrajeev@gmail.com
