@@ -3,7 +3,7 @@
 <p align="center">
   i write code until it works and then pretend i knew it the whole time
   <br>
-  13 year old software dev from bengaluru
+  13 year old software dev from bengaluru (<i>pls hire me</i>)
 </p>
 
 ---
